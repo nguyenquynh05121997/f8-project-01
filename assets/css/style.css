@@ -299,6 +299,7 @@ a {
 }
 
 .work-guide-item {
+    flex: 1;
     text-align: center;
 }
 
